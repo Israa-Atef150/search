@@ -1,0 +1,48 @@
+/* تنسيق الجسم */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+  }
+  
+  /* تنسيق صندوق الإدخال */
+  #searchInput {
+    padding: 10px;
+    width: 200px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  /* تنسيق زر البحث */
+  button {
+    padding: 10px 15px;
+    margin-left: 10px;
+    background-color: #28a745; /* لون أخضر */
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer; /* يغير شكل المؤشر */
+  }
+  
+  /* تأثير عند مرور المؤشر على الزر */
+  button:hover {
+    background-color: #218838; /* لون أخضر داكن */
+  }
+  
+  /* تنسيق قائمة العناصر */
+  ul {
+    margin-top: 20px;
+    
+    list-style-type: none; /* إزالة النقاط */
+  }
+  
+  /* تنسيق عناصر القائمة */
+  li {
+    background-color: white;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 5px;
+    
+  }
+  
